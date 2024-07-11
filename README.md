@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning pentration testing <br>📫 How to reach me yousefelsrogy500@gmail.com
+🌱 I’m currently learning web pentration testing and backend develpment <br>📫 How to reach me yousefelsrogy500@gmail.com
 
 
 ## 🌐 Socials:
