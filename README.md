@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joisyousef" alt="joisyousef" /></a> </p>
 
-- 🌱 I’m currently learning DevOps and Backend **Docker, Jenkins, kubernetes, Terraform, NodeJS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/joisyousef](https://github.com/joisyousef)
+- 🌱 I’m currently learning DevOps and Backend Development
 
 - 📫 How to reach me **yousefelsrogy500@gmail.com**
 
