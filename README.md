@@ -4,7 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joisyousef&label=Profile%20views&color=0e75b6&style=flat" alt="joisyousef" /> </p>
 
 - 🌱 I’m currently learning DevOps and Backend **Docker, Jenkins, kubernetes, Terraform, NodeJS**
-
+- 🔧 Focus: implementing security practices throughout the SDLC, using automated tools and processes to ensure security is baked into the code from the beginning.
+  * Code reviews and vulnerability assessments
+  * Threat modeling and risk assessments
+  * Security testing and validation
+  * CI/CD pipelines
+  * Automated testing and deployment
+  * Containerization and orchestration (Docker, Kubernetes)
+  * Infrastructure as Code (IaC) tools
 - 👨‍💻 All of my projects are available at [https://github.com/joisyousef](https://github.com/joisyousef)
 
 - 📫 How to reach me **yousefelsrogy500@gmail.com**
