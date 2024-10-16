@@ -18,7 +18,7 @@
 <a href="https://twitter.com/joisyousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joisyousef" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yousef-elsrogy-2298a4245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-elsrogy-2298a4245" height="30" width="40" /></a>
 <a href="https://fb.com/yousef ramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef ramadan" height="30" width="40" /></a>
-<a href="https://instagram.com/yousef.ramadann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousef.ramadann" height="30" width="40" /></a>
+<a href="https://instagram.com/yousef.rramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousef.ramadann" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/joisyousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joisyousef" height="30" width="40" /></a>
 </p>
 
