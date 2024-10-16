@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef</h1>
-<h3 align="center">A passionate DevSecOps and Software Engineer with background knowledge in Bug Hunting</h3>
+<h3 align="center">A passionate DevSecOps and Backend Engineer with background knowledge in Bug Hunting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joisyousef&label=Profile%20views&color=0e75b6&style=flat" alt="joisyousef" /> </p>
 
