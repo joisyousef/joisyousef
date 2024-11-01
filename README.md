@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, it's Yousef Ramadan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"></img> </h1>
 <h3 align="center">A passionate DevSecOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joisyousef&label=Profile%20views&color=0e75b6&style=flat" alt="joisyousef" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joisyousef&label=Profile%20views&color=0e75b6&style=flat" alt="joisyousef" /> </p>
 
 - 🌱 I’m currently learning DevSecOps | Cloud Computing | Backend Development.
 - 🔧 Focus: implementing security practices throughout the SDLC, using automated tools and processes to ensure security is baked into the code from the beginning:
