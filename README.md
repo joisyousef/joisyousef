@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning DevSecOps | Cloud Computing | Backend Development.
 - 🔧 Focus: implementing security practices throughout the SDLC, using automated tools and processes to ensure security is baked into the code from the beginning:
+  
   * Code reviews and vulnerability assessments
   * Threat modeling and risk assessments
   * Security testing and validation
   * Automating infrastructure and optimizing deployments.
-- 👨‍💻 All of my projects are available at [https://github.com/joisyousef](https://github.com/joisyousef)
 
-- 📫 How to reach me **yousefelsrogy500@gmail.com**
+📫 Get in Touch: Feel free to contact **yousefelsrogy500@gmail.com** for collaboration or opportunities!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
