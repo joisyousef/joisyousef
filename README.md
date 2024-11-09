@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning DevSecOps | Cloud Computing | Backend Development.
 - 🔧 Focus: implementing security practices throughout the SDLC, using automated tools and processes to ensure security is baked into the code from the beginning:
   
-  * Code reviews and vulnerability assessments
-  * Threat modeling and risk assessments
-  * Security testing and validation
   * Automating infrastructure and optimizing deployments.
+  * Code reviews and vulnerability assessments.
+  * Threat modeling and risk assessments.
+  * Security testing and validation.
 
 📫 Get in Touch: Feel free to contact **yousefelsrogywork@gmail.com** for collaboration or opportunities!
 
