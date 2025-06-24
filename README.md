@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joisyousef&label=Profile%20views&color=0e75b6&style=flat" alt="joisyousef" /> </p>
 
-- 🌱 I’m currently learning DevSecOps | Cloud Computing | Backend Development.
+- 🌱 I’m currently learning Backend & DevOps Development.
 - 🔧 Focus: implementing security practices throughout the SDLC, using automated tools and processes to ensure security is baked into the code from the beginning:
   
   * Automating infrastructure and optimizing deployments.
