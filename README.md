@@ -1,57 +1,63 @@
-<h1 align="center">Hey, I'm Yousef Elsrogy! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"></img></h1>
-<h3 align="center">DevOps & Backend Engineer in Progress 🚀</h3>
+<h1 align="center">Yousef Elsrogy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30" alt="👋"/></h1>
+<h3 align="center">Aspiring Senior Backend & DevSecOps Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joisyousef&label=Profile%20views&color=0e75b6&style=flat" alt="joisyousef" />
+  <img src="https://komarev.com/ghpvc/?username=joisyousef&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-### 🌱 Currently Learning
-I’m focusing on mastering **Backend & DevSecOps Engineering**, building a strong foundation in both **development** and **infrastructure automation**.
-
-- 💻 Building scalable **Node.js backend systems** with secure and maintainable architectures.  
-- ☁️ Managing **cloud infrastructure** using **Terraform, Ansible, and Kubernetes**.  
-- 🔒 Implementing **security practices throughout the SDLC**, ensuring security is baked into every stage.  
-- ⚙️ CI/CD pipelines with **GitHub Actions, Jenkins, and ArgoCD** for automated deployments.  
-- 📊 Monitoring and observability using **Prometheus, Grafana, and ELK Stack**.  
+### 🔍 Snapshot  
+I am currently bridging deep backend development with enterprise-grade DevSecOps practices — building secure, scalable services while automating infrastructure, CI/CD, and security workflows.
 
 ---
 
-### 🧠 Core Learning Goals (2025)
-- Deepen my understanding of **Kubernetes, GitOps, and Cloud-Native Security**.  
-- Contribute to **open-source DevOps projects**.  
-- Design **production-grade backend architectures** integrated with DevSecOps practices.  
+### 🧠 Areas of Expertise in Progress  
+- **Backend Engineering** → Crafting Node.js microservices, API gateways, data-layer abstractions, and event-driven systems.  
+- **Cloud & Infrastructure Automation** → Deploying multi-cloud (AWS/Azure/GCP) environments via Terraform, Ansible, Kubernetes, OpenShift.  
+- **Security-First DevOps (DevSecOps)** → Integrating security from code to production through:  
+  * Infrastructure as Code (IaC) scanning & hardening  
+  * Automated vulnerability/fuzz testing  
+  * Threat modelling, risk assessment & shift-left security  
+  * End-to-end CI/CD pipelines (GitHub Actions, Jenkins, ArgoCD)  
+- **Observability & Reliability Engineering** → Leveraging Prometheus, Grafana, ELK for monitoring, alerting, chaos-testing, and incident response.
 
 ---
 
-### 📫 Let's Connect
-I’m always open to collaborations, learning opportunities, or just tech talk!  
-**📧** yousefelsrogy500@gmail.com
+### 🔭 Current Learning Goals (2025)  
+- Mastering Kubernetes architecture, GitOps practices, and service-mesh design.  
+- Contributing to Open Source DevOps/Infrastructure projects and documenting my journey.  
+- Designing and deploying production-grade backend systems embedded with industrial-level security and compliance controls.  
+- Building a professional portfolio that reflects architecture, automation, and security expertise.
 
+---
+
+### 📫 Connect With Me  
+E-mail: yousefelsrogy500@gmail.com  
 <p align="left">
-<a href="https://twitter.com/joisyousef" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yousef-elsrogy-2298a4245" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/yousef.rramadan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://twitter.com/joisyousef" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30"/></a>
+  <a href="https://linkedin.com/in/yousef-elsrogy-2298a4245" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/></a>
+  <a href="https://instagram.com/yousef.rramadan" target="_blank"><img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/></a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Technologies & Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,redhat,bash,py,go,js,nodejs,html,css,mysql,mongodb,git,github,gitlab,docker,kubernetes,ansible,terraform,jenkins,githubactions,nginx,openshift,prometheus,grafana,obsidian&perline=11" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,redhat,bash,py,nodejs,go,js,html,css,mysql,mongodb,git,github,gitlab,docker,kubernetes,ansible,terraform,jenkins,githubactions,nginx,openshift,prometheus,grafana,obsidian&perline=11" alt="Technologies Icons"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joisyousef&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joisyousef&layout=compact&theme=dark&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=joisyousef&theme=dark&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joisyousef&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joisyousef&layout=compact&theme=dark&hide_border=false" alt="Top languages" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=joisyousef&theme=dark&hide_border=false&border_radius=5" alt="GitHub streak" height="150"/>
 </div>
 
 ---
 
-⭐ **“Automate everything, secure everything, and never stop learning.”**
+> “Automate everything, embed security into every layer, never stop evolving.”
+
